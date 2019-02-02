@@ -1,6 +1,6 @@
 import Vue from 'vue'
 import Router from 'vue-router'
-import Rhymesaurus from '@/components/Rhymesaurus'
+import Rhymesaurus from '@/views/Rhymesaurus'
 // TODO: Import new component
 
 Vue.use(Router)
