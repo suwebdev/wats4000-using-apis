@@ -14,7 +14,7 @@ for our users. For this project, we will make requests to the [Datamuse API](htt
 which is a wonderful, free service useful for finding the word we need.
 
 This project is designed to go alongside the content and instructions in the
-[Practical JavaScript 2: Building Applications](https://shawnr.gitbooks.io/practical-javascript-2-building-applications/using-api-data/) book.
+[Practical JavaScript 2: Building Applications](https://suwebdev.github.io/WATS-4000-gitbook/using-api-data/) book.
 
 ## Project Goals
 The goal for this project is to make the "Rhymesaurus" functional. This feature
