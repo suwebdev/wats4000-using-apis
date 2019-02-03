@@ -82,7 +82,7 @@ modify to fulfill them.
 If you are looking for additional challenges with this project, consider working
 on the following goals.
 
-* Create a similar application using a different API. ([Find suggested APIs for experimenting with here](https://shawnr.gitbooks.io/practical-javascript-2-building-applications/appendices/appendix-b-api-suggestions.html).)
+* Create a similar application using a different API. ([Find suggested APIs for experimenting with here](https://suwebdev.github.io/WATS-4000-gitbook/appendices/appendix-b-api-suggestions.html))
 * Add a second API to this application and mingle the results in some interesting way
 * Use the "score" data from the API to modify the visual presentation of the words to indicate which ones are the best matches for the user's search parameters
 * Use the data returned from the API to modify the appearance or interface in some other way
@@ -94,18 +94,16 @@ on the following goals.
 npm install
 
 # serve with hot reload at localhost:8080
-npm run dev
+npm run serve
 
 # build for production with minification
 npm run build
 
-# build for production and view the bundle analyzer report
-npm run build --report
 ```
 
 **Note:** This application has been configured to build files to the `/docs` directory, making it compatible with the "Serve from `master` `/docs` directory" setting for GitHub Pages. Please adjust your GH Pages settings accordingly on your repository settings page.
 
-For a detailed explanation on how this application is configured to work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+For detailed explanation on how Vue works, check out the [guide](https://cli.vuejs.org/guide/) and [docs for vue-loader](https://cli.vuejs.org/config/#css-loaderoptions).
 
 ## Credits
 This project makes use of the [Datamuse API](http://www.datamuse.com/api/), which is a wonderful, free API service that you should support.
